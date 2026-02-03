@@ -302,12 +302,6 @@ chmod +x zksecmon.sh zkmonitor.sh
 journalctl -u zksecmon-run.service -n 100 --no-pager
 journalctl -u zkmonitor.service -n 100 --no-pager
 ```
-
----
-
-# 📄 Licença
-MIT (se você quiser, posso gerar um `LICENSE` completo).
-
 ---
 
 # ✨ Autor
